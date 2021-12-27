@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tourpekanbaru">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TOURPEKANBARU">
+        <activity
+            android:name=".DetailActivityKuliner"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityKuliner"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivityVihara"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTempatIbadahVihara"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivityMasjid"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTempatIbadahMasjid"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivityHKBP"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTempatIbadahHKBP"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivityKatolik"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTempatibadahkatolik"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTempatIbadah"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivityWisata"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityWisata"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivityHotel"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityHotel"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

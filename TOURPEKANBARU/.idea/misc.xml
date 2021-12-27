@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_detail_hkbp.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_detail_katolik.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_detail_kuliner.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_detail_masjid.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_detail_vihara.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_detail_wisata.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_layout_detailhotel.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_main_hotel.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_main_kuliner.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_main_tempat_ibadah.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_main_tempat_ibadah_hkbp.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_main_tempat_ibadah_masjid.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_main_tempat_ibadah_vihara.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_main_tempatibadahkatolik.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/activity_main_wisata.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/desain_layout_recyclerview_adapter_kuliner.xml" value="0.23645833333333333" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/desain_layout_recyclerviewhkbp.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/desain_layout_recyclerviewkatolik.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/desain_layout_recyclerviewmasjid.xml" value="0.23645833333333333" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/desain_layout_recyclerviewvihara.xml" value="0.25052083333333336" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/desain_layout_reycleviewadapterhotel.xml" value="0.23645833333333333" />
+        <entry key="..\:/PEMROGRAMAN_ANDROID_STUDIO/TOURPEKANBARU/app/src/main/res/layout/desain_layout_reycleviewadapterwisata.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
