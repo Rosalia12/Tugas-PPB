@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="@drawable/bgp5"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
@@ -11,11 +12,11 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
-        android:background="#4CAF50"
+        android:background="#88D68B"
         android:gravity="center_horizontal"
-        android:text="Tour Wisata pekanbaru"
-        android:textColorHighlight="#3A0606"
-        android:textColorLink="#121010"
+        android:text="Tour  pekanbaru"
+        android:textColorHighlight="#512DA8"
+        android:textColorLink="#9C1616"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bgp1"
     tools:context=".DetailActivityWisata">
 
     <ScrollView
@@ -32,6 +33,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp"
+                android:background="#0288D1"
                 android:fontFamily="cursive"
                 android:text="Judul Nama wisata"
                 android:textAlignment="center"
@@ -47,7 +49,10 @@
                 android:layout_marginEnd="10dp"
                 android:layout_marginRight="15dp"
                 android:layout_marginBottom="20dp"
-                android:fontFamily="sans-serif"
+                android:background="#131313"
+                android:backgroundTint="#191918"
+                android:backgroundTintMode="add"
+                android:fontFamily="sans-serif-black"
                 android:text="Informasi wisata "
                 android:textAlignment="textStart"
                 android:textAllCaps="false"

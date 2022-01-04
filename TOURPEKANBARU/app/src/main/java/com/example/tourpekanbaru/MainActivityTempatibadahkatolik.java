@@ -103,9 +103,7 @@ public class MainActivityTempatibadahkatolik extends AppCompatActivity {
                 "Sabtu Pukul 19:00 wib\n" +
                 "Minggu Pukul 11:00 wib");
 
-        namatempatibadah.add("");
-        fototempatibadah.add("");
-        infotempatibadah.add("");
+
         prosesrecyclerView();
     }
 }

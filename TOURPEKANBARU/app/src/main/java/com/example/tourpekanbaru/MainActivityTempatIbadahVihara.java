@@ -94,9 +94,7 @@ public class MainActivityTempatIbadahVihara extends AppCompatActivity {
                 "\n" +
                 "\n" +
                 "Provinsi: Riau");
-        namatempatibadah.add("");
-        fototempatibadah.add("");
-        infotempatibadah.add("");
+
         prosesrecyclerView();
     }
 }

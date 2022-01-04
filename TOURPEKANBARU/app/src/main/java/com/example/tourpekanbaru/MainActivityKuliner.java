@@ -57,7 +57,7 @@ public class MainActivityKuliner extends AppCompatActivity {
                 "\n" +
                 "Lokasi: Jl. Dr. Sam Ratulangi No.33, Sago, Kec. Senapelan, Kota Pekanbaru.");
 
-        namakuliner.add("https://www.libur.co/wp-content/uploads/2020/08/Nasi-Kapau-Asli.jpg");
+        namakuliner.add("Nasi Kapau Asli");
         fotokuliner.add("https://www.libur.co/wp-content/uploads/2020/08/Nasi-Kapau-Asli.jpg");
         infokuliner.add("Rumah makan satu ini memberikan rekomendasi untuk makan berat yang sangat enak untuk masyarakat lokal ataupun luar kota. Kamu yang datang ke Pekanbaru wajib berkunjung ke rumah makan Nasi Kapau Asli ini. Cita rasa dari masakannya mampu menggoyang lidah banyak orang dan tidak berubah sejak 70 tahun lalu. Penggemarnya tidak pernah kecewa karena harganya sangat terjangkau dan dipastikan kamu tidak akan puas dengan satu porsi.\n" +
                 "\n" +

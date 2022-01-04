@@ -144,25 +144,8 @@ public class MainActivityTempatIbadahMasjid extends AppCompatActivity {
                 "\n" +
                 "Provinsi: Riau");
 
-        namatempatibadah.add("Masjid Shalehin");
-        fototempatibadah.add("https://lh3.googleusercontent.com/proxy/PwAlUVtCHDlKZOBPHBLxqCA3p60evE3iW8tu5Is2ehy4VTbnL2Hw2ZcHBuOmlL0jTk8Pd1jqlwmqdQ3SoZgIX6uHZmWGweN0iJTkethW3vUUXvWyk8qL5CwL");
-        infotempatibadah.add("Alamat: Jl. HOS. Cokroaminoto No.87, Sukaramai, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28155\n" +
-                "Provinsi: Riau");
 
-        namatempatibadah.add("");
-        fototempatibadah.add("");
-        infotempatibadah.add("");
-        namatempatibadah.add("");
-        fototempatibadah.add("");
-        infotempatibadah.add("");
 
-        namatempatibadah.add("");
-        fototempatibadah.add("");
-        infotempatibadah.add("");
-
-        namatempatibadah.add("");
-        fototempatibadah.add("");
-        infotempatibadah.add("");
         prosesrecyclerView();
     }
 }
